@@ -1,0 +1,29 @@
+#image {
+  max-width: 100%;
+  height: auto;
+}
+img {
+  display: block;
+}
+* {
+  background-color: #e7c6f5
+}
+h1 {
+  font-family: Arial, serif;
+  text-align: center;
+  color: #805991;
+  font-size: 50px
+}
+figcaption {
+  font-family: Verdana;
+  font-size: 18px;
+  color: #351238;
+  position: relative;
+}
+p {
+  font-family: Georgia;
+  font-weight: Bold;
+  color: #6d3173;
+  text-align: center;
+  font-size: 30px;
+}
